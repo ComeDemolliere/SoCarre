@@ -1,0 +1,11 @@
+digraph "/home/alexia/Documents/Projet_LIFAP4/SoCarre/src/sdl2" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_68267d1309a1af8e8297ef4c3efbcdba {
+    graph [ bgcolor="#ddddee", pencolor="black", label="src" fontname="Helvetica", fontsize="10", URL="dir_68267d1309a1af8e8297ef4c3efbcdba.html"]
+  dir_8d1e9cce9dcfda87c581b5abec6517a4 [shape=box, label="sdl2", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_8d1e9cce9dcfda87c581b5abec6517a4.html"];
+  }
+  dir_aebb8dcc11953d78e620bbef0b9e2183 [shape=box label="core" URL="dir_aebb8dcc11953d78e620bbef0b9e2183.html"];
+  dir_8d1e9cce9dcfda87c581b5abec6517a4->dir_aebb8dcc11953d78e620bbef0b9e2183 [headlabel="1", labeldistance=1.5 headhref="dir_000002_000001.html"];
+}

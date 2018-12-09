@@ -1,0 +1,14 @@
+digraph "/home/alexia/Documents/Projet_LIFAP4/SoCarre/src" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_68267d1309a1af8e8297ef4c3efbcdba {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_68267d1309a1af8e8297ef4c3efbcdba.html"];
+    dir_68267d1309a1af8e8297ef4c3efbcdba [shape=plaintext label="src"];
+    dir_aebb8dcc11953d78e620bbef0b9e2183 [shape=box label="core" color="black" fillcolor="white" style="filled" URL="dir_aebb8dcc11953d78e620bbef0b9e2183.html"];
+    dir_8d1e9cce9dcfda87c581b5abec6517a4 [shape=box label="sdl2" color="black" fillcolor="white" style="filled" URL="dir_8d1e9cce9dcfda87c581b5abec6517a4.html"];
+    dir_74d70b51b5aa2eb3cb5baf13d2756485 [shape=box label="txt" color="black" fillcolor="white" style="filled" URL="dir_74d70b51b5aa2eb3cb5baf13d2756485.html"];
+  }
+  dir_74d70b51b5aa2eb3cb5baf13d2756485->dir_aebb8dcc11953d78e620bbef0b9e2183 [headlabel="6", labeldistance=1.5 headhref="dir_000003_000001.html"];
+  dir_8d1e9cce9dcfda87c581b5abec6517a4->dir_aebb8dcc11953d78e620bbef0b9e2183 [headlabel="1", labeldistance=1.5 headhref="dir_000002_000001.html"];
+}

@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['gestionduscore',['GestionduScore',['../classsdlJeu.html#abac1b8ac42fc3bead6193b45f91ac1e2',1,'sdlJeu']]],
+  ['getch',['getCh',['../classWinTXT.html#a418c66475403586ac57a80eceb409166',1,'WinTXT']]],
+  ['getdimxperso',['getDimXPerso',['../classPersonnage.html#a43f00c9da9d521f55093345e701ae734',1,'Personnage']]],
+  ['getdimyperso',['getDimYPerso',['../classPersonnage.html#afffc1c0741251e2017d021df86774d81',1,'Personnage']]],
+  ['getentierposi',['getEntierPosI',['../classMonde.html#ac39605cc5396b75ea1cb55c534d8be6e',1,'Monde']]],
+  ['getfin',['getFin',['../classForme.html#a50b834cb9719e2075edd11866867edfe',1,'Forme']]],
+  ['getforme',['getForme',['../classMonde.html#ada910d7da3c34da178ac92cb87299e35',1,'Monde']]],
+  ['getformeposi',['getFormePosI',['../classMonde.html#a667d3591dc69fc4a7ca039c5f4baac49',1,'Monde']]],
+  ['getgravite',['getGravite',['../classPersonnage.html#a6ea3be9e650b8f2d570f0d429a66fcce',1,'Personnage']]],
+  ['getliste',['getListe',['../classJeu.html#a9fbe9701f55ba27daad03374ab478a2b',1,'Jeu']]],
+  ['getmonde',['getMonde',['../classJeu.html#a53de066e6351a8acd2db4b9a95202b11',1,'Jeu']]],
+  ['getmortel',['getMortel',['../classForme.html#aee2f110fa5d03a2676c4115c186143d3',1,'Forme']]],
+  ['getperso',['getPerso',['../classJeu.html#aae091fba7cc261555cb9f4144586087b',1,'Jeu']]],
+  ['getposactuelleperso',['getPosActuellePerso',['../classJeu.html#a908430cc326868aefc823d1b919773e4',1,'Jeu']]],
+  ['getpospersoprec',['getPosPersoPrec',['../classPersonnage.html#a61c5f1b0b46f1fccef5966b6683c1089',1,'Personnage']]],
+  ['getposxperso',['getPosXPerso',['../classPersonnage.html#adb9f77f127e29c957be4ac031848b6b7',1,'Personnage']]],
+  ['getposyperso',['getPosYPerso',['../classPersonnage.html#aff7cd45613a90c30c1aa621b1e486093',1,'Personnage']]],
+  ['gettaille',['getTaille',['../classForme.html#a298aef138c2dc529a1028195e1cac547',1,'Forme']]],
+  ['gettexture',['getTexture',['../classImage.html#ae9e27e310b4322d04366f2882f3a4242',1,'Image']]],
+  ['getvivant',['getVivant',['../classPersonnage.html#ae1ba4f7e0442a8f7992256473a6b87ba',1,'Personnage']]]
+];
