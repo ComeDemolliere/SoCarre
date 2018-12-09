@@ -20,6 +20,6 @@ Ouvrez un terminal dans le dossier racine / Open a terminal in the root folder
 ![alt text](https://github.com/ComeDemolliere/SoCarre/blob/master/data/presentation_jeu.png)
 
 # Développeurs / Developpers
-Alexia GIRARD
-Côme DEMOLLIERE
-Lucas FERRAGUT
+Alexia GIRARD - 
+Côme DEMOLLIERE - 
+Lucas FERRAGUT - 
